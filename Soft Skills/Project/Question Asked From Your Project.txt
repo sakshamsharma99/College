@@ -1,0 +1,7 @@
+Ask yourself these five critical questions before finalizing a project:
+
+1. What problem am I solving?
+2. Who is this product for and how will it be used?
+3. What are the constraints I may encounter during development? These could be in terms of time and complexity.
+4. Where it will be deployed, how load balancing, fine tuning, data analysis etc will be done.
+4. What are the measurable success criteria.
