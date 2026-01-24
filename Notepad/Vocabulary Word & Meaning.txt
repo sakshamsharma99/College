@@ -3,3 +3,4 @@ jargon : special or technical words that are used by a particular group of peopl
 Syntactic sugar : syntax that makes code easier to read and write without changing its behaviour.
 Pathetic : causing you to feel pity or sadness / very bad, weak or useless Ex : Pathetic experience {Bad experience}
 fragile : easily damaged or broken Ex: Their fragile friendship could not survive the misunderstanding.
+gratitude : the feeling of being grateful or of wanting to give your thanks to somebody कृतज्ञता या किसी को धन्यवाद देने की इच्छा
