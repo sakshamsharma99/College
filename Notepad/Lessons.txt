@@ -42,3 +42,10 @@ Change Friends
 Give time to parents
 Friendships also have an expiry date
 Society is hierarchical (Where you are, what you do? then you get respect)
+
+If(Give Up == GATE_CSE){
+	Accept("9-5 Job + Home Work + 20k Salary + Maruti Suzuki after 10 years of had works");
+}else{
+	Gain("IIT Tag + Networking + 40-50LPA + Product Based Company(Google, Amazon, Microsoft) + International Trip
+		+ Higher Saving + Ahead from you Batch Mates + YOur One Month Salary can fullfill the dreams of 10yrs of other");
+}
