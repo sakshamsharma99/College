@@ -49,3 +49,7 @@ If(Give Up == GATE_CSE){
 	Gain("IIT Tag + Networking + 40-50LPA + Product Based Company(Google, Amazon, Microsoft) + International Trip
 		+ Higher Saving + Ahead from you Batch Mates + YOur One Month Salary can fullfill the dreams of 10yrs of other");
 }
+
+You woke up only when you realized that your batchmates, just because they got admission into a B.Tech program, are preparing for placements for a small opportunity and a relatively low salary. Now you have understood that this will not lead to anything significant, so you are preparing for GATE instead.
+
+This time never comes back, Just one last time Saksham
