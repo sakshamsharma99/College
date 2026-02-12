@@ -1,0 +1,2 @@
+Mistake :
+TOC, DS, DM : Analyse same problem for small data set
